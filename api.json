@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "Peppa Pig",
+            "Year": "2004",
+            "imdbID": "tt0426769",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig: My First Cinema Experience",
+            "Year": "2017",
+            "imdbID": "tt6771444",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BM2I4OWI3MGUtZmUzMC00NjFhLWJlYTQtNjI1ZjFkOTc4Y2YwXkEyXkFqcGdeQXVyMDEzNzk1OQ@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig: Festival of Fun",
+            "Year": "2019",
+            "imdbID": "tt10112466",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ0M2ZjODEtNzViNS00MGY0LTk2NDctNzViZDBjMmExMWFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig: The Golden Boots",
+            "Year": "2015",
+            "imdbID": "tt4373888",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5NjA2OTA5NDFeQTJeQWpwZ15BbWU4MDEyNzU3Mjgx._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig: Muddy Puddles and Other Stories",
+            "Year": "2012",
+            "imdbID": "tt2406728",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzU2ODM0Nl5BMl5BanBnXkFtZTgwNzc0NzA2MDE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig: Flying a Kite and Other Stories",
+            "Year": "2012",
+            "imdbID": "tt2362978",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzg4Njg1NDgzOF5BMl5BanBnXkFtZTgwNjUzNzA2MDE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig: Peppa's Christmas",
+            "Year": "2007",
+            "imdbID": "tt4055734",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTA3ODUwMTA1OTBeQTJeQWpwZ15BbWU4MDQ3MDM2MDgx._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig: My Birthday Party",
+            "Year": "2002",
+            "imdbID": "tt3607810",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzMTAwNDczMF5BMl5BanBnXkFtZTgwNzUzMzU0MTE@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Peppa Pig New Shoes and Other Stories",
+            "Year": "2003",
+            "imdbID": "tt4055348",
+            "Type": "movie",
+            "Poster": "N/A"
+        },
+        {
+            "Title": "Peppa Pig: Vacanze Al Sole E Altre Storie",
+            "Year": "2014",
+            "imdbID": "tt6449464",
+            "Type": "movie",
+            "Poster": "N/A"
+        }
+    ],
+    "totalResults": "12",
+    "Response": "True"
+}
