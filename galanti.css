@@ -1,10 +1,17 @@
-.carousel-inner{
-    margin-right: auto;
-    margin-left: auto;
-    padding-left: 17%;
-    padding-right: 17%;
-    
-}
+
 img {
     width: 100%;
+}
+#search-input{
+    display: inline-block;
+    width: 100%;
+}
+.col-3{
+    margin-left: 1rem;
+}
+.card{
+    margin: 1rem;
+}
+#search-body{
+    margin-top: 1rem;
 }
