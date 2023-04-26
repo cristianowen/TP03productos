@@ -6,12 +6,26 @@ img {
     display: inline-block;
     width: 100%;
 }
-.col-3{
+#boton-nav{
     margin-left: 1rem;
 }
 .card{
-    margin: 1rem;
+    margin-left: 1rem;
+    border: 0;
 }
 #search-body{
     margin-top: 1rem;
+}
+.col-2{
+    background-color: #424549;/*424549*/
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.container-fluyd{
+    background-color: #424549;
+    min-height: 100vh;
+}
+.row{
+    width: 100%;
 }
